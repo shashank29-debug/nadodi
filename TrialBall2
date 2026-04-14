@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nadodi | Grow Your Business Online</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>NADODI</h1>
+    <p>Grow Your Business Online</p>
+</header>
+
+<section class="hero">
+    <h2>Take Your Business Beyond the Street</h2>
+    <p>We help Kerala businesses grow with Google profiles, websites & video ads</p>
+    <a href="#contact" class="btn">Get Started</a>
+</section>
+
+<section class="about">
+    <h2>Who We Are</h2>
+    <p>Nadodi helps small businesses in Kerala get discovered online and attract more customers.</p>
+</section>
+
+<section class="services">
+    <h2>Our Services</h2>
+
+    <div class="card">
+        <h3>Google Profile Optimization</h3>
+        <p>Improve your visibility on Google search and maps.</p>
+    </div>
+
+    <div class="card">
+        <h3>Website Creation</h3>
+        <p>Simple, fast, mobile-friendly websites for your business.</p>
+    </div>
+
+    <div class="card">
+        <h3>Video Ads</h3>
+        <p>Short videos to promote your business on WhatsApp & social media.</p>
+    </div>
+</section>
+
+<section class="process">
+    <h2>How It Works</h2>
+    <p>1. Contact Us → 2. We Build → 3. You Grow</p>
+</section>
+
+<section class="cta">
+    <h2>Your customers are already searching.</h2>
+    <p>We make sure they find YOU.</p>
+</section>
+
+<section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>WhatsApp: +91 XXXXX XXXXX</p>
+    <p>Email: nadodi.services@gmail.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Nadodi | Kerala</p>
+</footer>
+
+</body>
+</html>
